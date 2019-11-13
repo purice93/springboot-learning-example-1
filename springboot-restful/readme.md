@@ -1,0 +1,1 @@
+restful风格设计：将controller设计成restful风格

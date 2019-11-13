@@ -24,7 +24,6 @@ public class QuickStartApplicationTests {
     @Autowired
     private MockMvc mvc;
 
-
     @Test
     public void requestHello_thenStatus200_and_outputHello() throws Exception {
         mvc.perform(get("/hello")

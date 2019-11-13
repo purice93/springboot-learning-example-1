@@ -1,0 +1,1 @@
+redis缓存操作，通过RedisTemplate执行
